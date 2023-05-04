@@ -4,6 +4,7 @@ I'm a self-taught passionate Full Stack developer from South Africa
 
 - 💼 Project Manager at [VDB Solutions](https://www.vdbsolutions.co.za/)
 
+**Skills**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
 
 
